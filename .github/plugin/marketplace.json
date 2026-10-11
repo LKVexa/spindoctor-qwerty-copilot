@@ -1,0 +1,34 @@
+{
+  "name": "spindoctor-qwerty-copilot",
+  "owner": {
+    "name": "RUSSELL PHILIP SMITHSON",
+    "email": "russellsmithson77@outlook.com"
+  },
+  "metadata": {
+    "description": "SpinDoctor Qwerty for GitHub Copilot CLI",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "spindoctor-qwerty",
+      "source": "./",
+      "description": "GitHub Copilot CLI plugin for the SpinDoctor 3.1.2 quantum-circuit SIMULATOR: a skill, a custom agent, 4 slash commands and a local MCP server; 1-298 logical qubits, 241 presets, q.folder, theory testing, TXT/PDF/JSON/CSV reports. Classical FP64 simulation, not a quantum computer.",
+      "version": "1.1.0",
+      "author": {
+        "name": "RUSSELL PHILIP SMITHSON",
+        "email": "russellsmithson77@outlook.com",
+        "url": "https://github.com/LKVexa"
+      },
+      "homepage": "https://github.com/LKVexa/spindoctor-qwerty-copilot",
+      "repository": "https://github.com/LKVexa/spindoctor-qwerty-copilot",
+      "license": "GPL-3.0-or-later",
+      "category": "science",
+      "keywords": [
+        "quantum",
+        "simulator",
+        "spindoctor",
+        "copilot"
+      ]
+    }
+  ]
+}
